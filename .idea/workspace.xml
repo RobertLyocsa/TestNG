@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="72351a44-2211-45c3-ac64-6486b55aeb0a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/LICENSE.chromedriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/selenium-java-4.18.1/CHANGELOG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/selenium-java-4.18.1/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/selenium-java-4.18.1/NOTICE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/selenium-java-4.18.1/lib/auto-service-annotations-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/selenium-java-4.18.1/lib/byte-buddy-1.14.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/selenium-java-4.18.1/lib/checker-qual-3.41.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/selenium-java-4.18.1/lib/commons-exec-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/selenium-java-4.18.1/lib/error_prone_annotations-2.23.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/selenium-java-4.18.1/lib/failsafe-3.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/selenium-java-4.18.1/lib/failureaccess-1.0.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/selenium-java-4.18.1/lib/guava-33.0.0-jre.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/selenium-java-4.18.1/lib/j2objc-annotations-2.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/selenium-java-4.18.1/lib/jsr305-3.0.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/selenium-java-4.18.1/lib/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/selenium-java-4.18.1/lib/opentelemetry-api-1.35.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/selenium-java-4.18.1/lib/opentelemetry-api-events-1.35.0-alpha.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/selenium-java-4.18.1/lib/opentelemetry-context-1.35.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/selenium-java-4.18.1/lib/opentelemetry-exporter-logging-1.35.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/selenium-java-4.18.1/lib/opentelemetry-extension-incubator-1.35.0-alpha.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/selenium-java-4.18.1/lib/opentelemetry-sdk-1.35.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/selenium-java-4.18.1/lib/opentelemetry-sdk-common-1.35.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/selenium-java-4.18.1/lib/opentelemetry-sdk-extension-autoconfigure-1.35.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/selenium-java-4.18.1/lib/opentelemetry-sdk-extension-autoconfigure-spi-1.35.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/selenium-java-4.18.1/lib/opentelemetry-sdk-logs-1.35.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/selenium-java-4.18.1/lib/opentelemetry-sdk-metrics-1.35.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/selenium-java-4.18.1/lib/opentelemetry-sdk-trace-1.35.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/selenium-java-4.18.1/lib/opentelemetry-semconv-1.23.1-alpha.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/selenium-java-4.18.1/selenium-api-4.18.1-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/selenium-java-4.18.1/selenium-api-4.18.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/selenium-java-4.18.1/selenium-chrome-driver-4.18.1-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/selenium-java-4.18.1/selenium-chrome-driver-4.18.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/selenium-java-4.18.1/selenium-chromium-driver-4.18.1-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/selenium-java-4.18.1/selenium-chromium-driver-4.18.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/selenium-java-4.18.1/selenium-devtools-v120-4.18.1-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/selenium-java-4.18.1/selenium-devtools-v120-4.18.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/selenium-java-4.18.1/selenium-devtools-v121-4.18.1-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/selenium-java-4.18.1/selenium-devtools-v121-4.18.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/selenium-java-4.18.1/selenium-devtools-v122-4.18.1-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/selenium-java-4.18.1/selenium-devtools-v122-4.18.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/selenium-java-4.18.1/selenium-devtools-v85-4.18.1-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/selenium-java-4.18.1/selenium-devtools-v85-4.18.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/selenium-java-4.18.1/selenium-edge-driver-4.18.1-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/selenium-java-4.18.1/selenium-edge-driver-4.18.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/selenium-java-4.18.1/selenium-firefox-driver-4.18.1-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/selenium-java-4.18.1/selenium-firefox-driver-4.18.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/selenium-java-4.18.1/selenium-http-4.18.1-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/selenium-java-4.18.1/selenium-http-4.18.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/selenium-java-4.18.1/selenium-ie-driver-4.18.1-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/selenium-java-4.18.1/selenium-ie-driver-4.18.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/selenium-java-4.18.1/selenium-java-4.18.1-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/selenium-java-4.18.1/selenium-java-4.18.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/selenium-java-4.18.1/selenium-json-4.18.1-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/selenium-java-4.18.1/selenium-json-4.18.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/selenium-java-4.18.1/selenium-manager-4.18.1-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/selenium-java-4.18.1/selenium-manager-4.18.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/selenium-java-4.18.1/selenium-os-4.18.1-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/selenium-java-4.18.1/selenium-os-4.18.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/selenium-java-4.18.1/selenium-remote-driver-4.18.1-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/selenium-java-4.18.1/selenium-remote-driver-4.18.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/selenium-java-4.18.1/selenium-safari-driver-4.18.1-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/selenium-java-4.18.1/selenium-safari-driver-4.18.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/selenium-java-4.18.1/selenium-support-4.18.1-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/selenium-java-4.18.1/selenium-support-4.18.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie27/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Zadanie27/Abc27.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Zadanie28/ulohaA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Zadanie28/ulohaB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Zadanie28/ulohaC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Zadanie29/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Zadanie29/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Zadanie29/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Zadanie29/Pokemons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Zadanie29/Smurfs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2d5hstX2AJjSEQQ9hQVMpOaAStc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.App.executor": "Run",
+    "Application.C.executor": "Run",
+    "JUnit.A.executor": "Run",
+    "JUnit.All in TestNG.executor": "Run",
+    "JUnit.AppTest.executor": "Run",
+    "JUnit.B.xpathTest.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.Abc27 (1).executor": "Run",
+    "TestNG.Abc27 (2).executor": "Run",
+    "TestNG.Abc27 (3).executor": "Run",
+    "TestNG.Abc27.executor": "Run",
+    "TestNG.Abc27.leftPanelTest (1).executor": "Run",
+    "TestNG.Abc27.leftPanelTest.executor": "Run",
+    "TestNG.Abc27.performActions.executor": "Run",
+    "TestNG.Abc27.verifyElements.executor": "Run",
+    "TestNG.AppTest (1).executor": "Run",
+    "TestNG.AppTest (2).executor": "Run",
+    "TestNG.AppTest.acceptAge.executor": "Run",
+    "TestNG.AppTest.age18.executor": "Run",
+    "TestNG.AppTest.executor": "Run",
+    "TestNG.AppTest.helloworld.executor": "Run",
+    "TestNG.AppTest.overenie3veci.executor": "Run",
+    "TestNG.C:/Users/rober/ATP_Lyocsa/TestNGZadania/testng.xml.executor": "Run",
+    "TestNG.C:/Users/rober/AppData/Local/JetBrains/IdeaIC2023.3/temp-testng-customsuite.xml.executor": "Run",
+    "TestNG.abc27 (1).executor": "Run",
+    "TestNG.abc27 (2).executor": "Run",
+    "TestNG.abc27.acceptAge.executor": "Run",
+    "TestNG.abc27.executor": "Run",
+    "TestNG.abc27.performActions (1).executor": "Run",
+    "TestNG.abc27.performActions (2).executor": "Run",
+    "TestNG.abc27.performActions (3).executor": "Run",
+    "TestNG.abc27.performActions.executor": "Run",
+    "TestNG.b.executor": "Run",
+    "TestNG.ulohaA.clickNaHiddenStepper.executor": "Run",
+    "TestNG.ulohaA.executor": "Run",
+    "TestNG.ulohaA.performActions.executor": "Run",
+    "TestNG.ulohaA.stepperOverovanie.executor": "Run",
+    "TestNG.ulohaB.executor": "Run",
+    "TestNG.ulohaB.logInTest.executor": "Run",
+    "TestNG.ulohaC.clickNaHiddenStepper.executor": "Run",
+    "TestNG.ulohaC.clickNaPost.executor": "Run",
+    "TestNG.ulohaC.executor": "Run",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/rober/ATP_Lyocsa/TestNGZadania"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.C">
+    <configuration name="C" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Zadanie29.C" />
+      <module name="TestNG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Zadanie29.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="A" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestNG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Zadanie29.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Zadanie29" />
+      <option name="MAIN_CLASS_NAME" value="Zadanie29.A" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="B.xpathTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestNG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Zadanie29.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Zadanie29" />
+      <option name="MAIN_CLASS_NAME" value="Zadanie29.B" />
+      <option name="METHOD_NAME" value="xpathTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Smurfs.xpathTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestNG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Zadanie29.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Zadanie29" />
+      <option name="MAIN_CLASS_NAME" value="Zadanie29.Smurfs" />
+      <option name="METHOD_NAME" value="xpathTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ulohaC.clickNaPost" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Zadanie28.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Zadanie28" />
+      <option name="MAIN_CLASS_NAME" value="Zadanie28.ulohaC" />
+      <option name="METHOD_NAME" value="clickNaPost" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.C" />
+        <item itemvalue="JUnit.B.xpathTest" />
+        <item itemvalue="JUnit.Smurfs.xpathTest" />
+        <item itemvalue="JUnit.A" />
+        <item itemvalue="TestNG.ulohaC.clickNaPost" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="72351a44-2211-45c3-ac64-6486b55aeb0a" name="Changes" comment="" />
+      <created>1709304058872</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709304058872</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
